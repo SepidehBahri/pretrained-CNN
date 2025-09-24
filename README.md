@@ -1,18 +1,18 @@
-# 🔍 Pretrained CNN Image Classifier
+#  Pretrained CNN Image Classifier
 
 This project is a modular, general-purpose pipeline for image classification using **pretrained CNNs** with **transfer learning** in TensorFlow/Keras.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Plug-and-play with **any folder-based image dataset**
 - Supports **InceptionResNetV2, ResNet50, EfficientNet, DenseNet**, and more
 - Customizable **data augmentation** and **layer freezing**
 - Automatically logs metrics to JSON
 - Generates:
-  - 📊 Accuracy & loss curves
-  - 🔁 Confusion matrix
+  -  Accuracy & loss curves
+  -  Confusion matrix
 - Fully configurable via `config.py`
 
 ---
@@ -27,7 +27,7 @@ Edit
 
 ---
 
-## 📸 Dataset Format
+##  Dataset Format
 
 Organize your dataset like this:
 
